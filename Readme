@@ -1,0 +1,45 @@
+## Usage
+
+### Clone
+
+```shell
+$ git clone git@github.com:siddhpurakaran/Infra_assignment.git
+```
+
+### Add .env file
+
+```shell
+Copy .env.local file into file named .env file
+```
+
+### Install dependencies
+
+```shell
+$ npm install
+```
+
+### Start Dev Mode
+
+```shell
+$ npm run dev
+```
+
+### Build
+
+```shell
+$ npx tsc
+```
+
+### Run
+
+```shell
+$ node dist/index.js
+```
+
+
+
+
+
+
+
+
